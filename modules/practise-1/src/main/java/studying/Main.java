@@ -2,7 +2,7 @@ package studying;
 
 public class Main {
     public static void main(String[] args) {
-        var factory = new FactoryAF();
+        var factory = new HseCarFactory();
 
         factory.addCar(1);
         factory.addCar(2);
